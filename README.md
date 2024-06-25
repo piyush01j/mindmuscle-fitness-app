@@ -1,3 +1,3 @@
-# mindmuscle-fitness-app
+# React Fitness Application
 
 npm install --legacy-peer-deps
